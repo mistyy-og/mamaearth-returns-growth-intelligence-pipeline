@@ -4,6 +4,14 @@ This project analyzes customer, product, and order data to identify revenue tren
 
 The final output is a Situation–Complication–Resolution (SCR) narrative that translates verified analytical findings into actionable insights for business and finance stakeholders.
 
+## 📊 Dashboard Preview
+
+The Power BI dashboard provides a visual overview of Mamaearth's sales performance and return patterns, highlighting key business metrics and trends.
+
+It includes KPI cards and visualizations covering total revenue, total orders, return rates, monthly revenue trends, city-tier performance, product categories, and payment methods.
+<img width="1527" height="859" alt="image" src="https://github.com/user-attachments/assets/35b3c064-12c2-4a76-81ce-fbe7937b9c48" />
+
+
 ## Repository Structure
 
 ```text
